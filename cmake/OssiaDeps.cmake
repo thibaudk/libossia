@@ -6,6 +6,7 @@ if(OSSIA_SUBMODULE_AUTOUPDATE)
       brigand
       chobo-shl
       concurrentqueue
+      dno
       flat
       flat_hash_map
       Flicks
